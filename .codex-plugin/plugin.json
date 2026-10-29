@@ -42,5 +42,6 @@
         "composerIcon": "./assets/logo.png"
       }
     }
-  }
+  },
+  "license": "MIT"
 }

@@ -3,6 +3,8 @@
 **Inteligência de marcas do Brasil e do mundo, direto no seu assistente de IA.**
 **Trademark intelligence for Brazil and the world, right inside your AI assistant.**
 
+Conector **oficial** do TrademarkIQ, mantido por Ricardo Vinhas, responsável pelo [TrademarkIQ](https://trademarkiq.com.br). / **Official** TrademarkIQ connector, maintained by Ricardo Vinhas, who is responsible for [TrademarkIQ](https://trademarkiq.com.br).
+
 [Português](#português) · [English](#english)
 
 ---
@@ -103,6 +105,12 @@ Analyses are risk assessments based on public data. They are not legal advice no
 ```
 
 The manifest is in [`plugin.json`](plugin.json) and the server config in [`mcp.json`](mcp.json).
+
+## Licença / License
+
+Os arquivos deste repositório (manifestos, configuração e documentação) são distribuídos sob a [licença MIT](LICENSE). A licença **não** se estende ao serviço TrademarkIQ, às bases de dados nem ao acesso à API, que seguem os próprios termos e exigem autenticação com uma conta TrademarkIQ.
+
+The files in this repository (manifests, configuration and documentation) are distributed under the [MIT license](LICENSE). The license does **not** extend to the TrademarkIQ service, its databases or API access, which are governed by their own terms and require authentication with a TrademarkIQ account.
 
 ## Links
 
